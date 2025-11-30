@@ -1,0 +1,4 @@
+MAC DISPLAY: b4:3a:45:a4:ff:18
+
+
+MAC GATEWAY: 6c:c8:40:59:4d:48
